@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Activity 3</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">register</string>
+    <string name="firstname">first name</string>
+    <string name="lastname">last name</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="register_success">register successfully</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="enter_email">enter your email address</string>
+    <string name="send">send</string>
+    <string name="email_sent">email sent</string>
+</resources>
